@@ -1,0 +1,8 @@
+com/mehmet/teachers/service/ServiceMapperImpl.class
+com/mehmet/teachers/service/ServiceMapper.class
+com/mehmet/teachers/model/TeacherModelDTO.class
+com/mehmet/teachers/repository/TeacherEntity.class
+com/mehmet/teachers/controller/TeacherController.class
+com/mehmet/teachers/service/TeacherService.class
+com/mehmet/teachers/repository/TeacherCrudOperation.class
+com/mehmet/teachers/TeachersApplication.class
